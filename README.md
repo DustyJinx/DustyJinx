@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
 <!--
 **DustyJinx/DustyJinx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
